@@ -17,3 +17,15 @@ user.name=Maksim Ezhov
 ```
 ## 4. Инициализация репозитория
 Создаём файл для работы в репзитории `Gitinstruction.md`
+## 5. Работа с терминалом
+Освоение команд для работы с Git:
+```
+git init - инициализация лок. репозитория
+git status - текущее состояние  
+git add - добавить файл(ы) к следующему commit
+git commit -m "message" - создание commit 
+git log - истории всех commit с их хеш-кодами
+git checkout - переход от одного commit к другому
+git checkout master - вернуться к актуальному состоянию
+git diff - разница между текущим и commit файлом
+```
