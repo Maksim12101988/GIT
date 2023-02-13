@@ -15,3 +15,5 @@
 user.email=maxim.ezhov88@mail.ru
 user.name=Maksim Ezhov
 ```
+## 4. Инициализация репозитория
+Создаём файл для работы в репзитории `Gitinstruction.md`
